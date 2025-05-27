@@ -5,7 +5,7 @@ Here's a professional and clear **`README.md`** for a **GitHub Finder** project,
 ````markdown
 # GitHub Finder 🔍
 
-GitHub Finder is a sleek and responsive web application that allows users to search for GitHub profiles and view detailed information including repositories, followers, and more — all fetched in real-time using the GitHub API.
+GitHub Finder is a sleek and responsive web application that allows users to search for GitHub profiles and view detailed information, including repositories, followers, and more, all fetched in real-time using the GitHub API.
 
 ## 🚀 Features
 
@@ -64,16 +64,5 @@ GitHub Finder uses [GitHub REST API](https://docs.github.com/en/rest) to:
 * Get user repos: `https://api.github.com/users/{username}/repos`
 
 > **Note**: GitHub API requires authentication for higher rate limits.
-
-## 📸 Screenshots
-
-*(Add screenshots or screen recordings here)*
-
-## 📄 License
-
-
-
-```
-
 ---
 
